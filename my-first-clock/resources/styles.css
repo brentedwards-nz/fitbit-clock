@@ -1,0 +1,82 @@
+.background {
+  viewport-fill: black;
+}
+
+.mainLabel {
+  font-size: 80;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%;
+  y: 20%+40;
+  fill: white;
+}
+
+#exercise {
+  font-size: 40;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%;
+  y: 50%;
+  fill: white;
+}
+#exerciseText {
+  font-size: 40;
+  font-family: System-Bold;
+  text-length: 32;
+  text-anchor: middle;
+  x: 50%;
+  y: 50%+40;
+  fill: white;
+}
+
+
+.application-fill           { fill: fb-orange; }
+.foreground-fill            { fill: fb-white; }
+.background-fill            { fill: fb-black; }
+
+.trash-button #image {
+  href: "images/trash.png";
+}
+
+.bike-button #image {
+  href: "images/bike.png";
+}
+
+.walk-button #image {
+  href: "images/walk.png";
+}
+
+.run-button #image {
+  href: "images/run.png";
+}
+
+.dumbell-button #image {
+  href: "images/dumbell.png";
+}
+
+/* Extra Large: 132x132 */
+/* Large: 96x96         */
+/* Medium: 72x72        */
+/* Small: 32x32         */
+
+#button-1 {
+  x: 0%+8;
+  y: 100%-96-20;
+}
+
+#button-2 {
+  x: 25%+5;
+  y: 100%-96-20;
+}
+
+#button-3 {
+  x: 50%+5;
+  y: 100%-96-20;
+}
+
+#button-4 {
+  x: 75%+5;
+  y: 100%-96-20;
+}

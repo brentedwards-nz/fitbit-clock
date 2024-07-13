@@ -1,0 +1,12 @@
+<svg class="background">
+  <text id="myLabel" class="mainLabel"/>
+  <text id="hrLabel" class="mainLabel"/>
+
+  <text id="exercise" />
+  <text id="exerciseText" />
+
+  <use id="button-1" href="#icon-button" class="medium-button application-fill bike-button" />
+  <use id="button-2" href="#icon-button" class="medium-button application-fill walk-button" />
+  <use id="button-3" href="#icon-button" class="medium-button application-fill run-button" />
+  <use id="button-4" href="#icon-button" class="medium-button application-fill dumbell-button" />
+</svg>
